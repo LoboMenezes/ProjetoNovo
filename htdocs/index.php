@@ -68,7 +68,7 @@ require ('_header.php'); // Executa o cabeçalho da página
 
 <!-- Third Container (Grid) -->
 <div class="container-fluid bg-3 text-center">    
-  <h3 class="margin">Where To Find Me?</h3><br>
+  <a href="noticias.php"><h3 class="margin">Conheça mais sobre a espécie.</h3></a><br>
   <div class="row">
     <div class="col-sm-4">
       <p>Um estudo realizado pela Universidade de Stanford revelou que os lobos negros contam com essa coloração devido a uma mutação que ocorre apenas em cães domésticos. Sendo assim, eles são o resultado da cruza de cachorros com lobos no passado.</p>
